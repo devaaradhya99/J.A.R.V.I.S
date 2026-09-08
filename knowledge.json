@@ -1,0 +1,51 @@
+{
+  "jarvis": {
+    "what is jarvis": "JARVIS (Just A Rather Very Intelligent System) is an AI assistant created by Tony Stark in Iron Man. It controls Stark's suit, home, and helps with daily tasks.",
+    "who made jarvis": "Tony Stark (Iron Man) created JARVIS in the Marvel Cinematic Universe.",
+    "jarvis full form": "JARVIS stands for Just A Rather Very Intelligent System."
+  },
+  "arduino": {
+    "what is arduino": "Arduino is an open-source electronics platform based on easy-to-use hardware and software. It can read inputs and turn them into outputs.",
+    "arduino uno": "Arduino Uno is the most popular Arduino board. It has 14 digital pins, 6 analog pins, 32KB flash memory, and uses ATmega328P microcontroller.",
+    "arduino nano": "Arduino Nano is a small, breadboard-friendly version of Arduino. Same features as Uno but smaller size.",
+    "how to upload code to arduino": "1. Connect Arduino via USB. 2. Open Arduino IDE. 3. Select Board and Port. 4. Click Upload button.",
+    "what is breadboard": "A breadboard is a construction base for prototyping electronics. It allows you to build circuits without soldering."
+  },
+  "programming": {
+    "what is python": "Python is a high-level, interpreted programming language known for its simplicity and readability. Used in web dev, AI, data science, automation.",
+    "what is c++": "C++ is a powerful general-purpose programming language. It's used in game development, system programming, and competitive programming.",
+    "what is java": "Java is a class-based, object-oriented programming language. It's used in Android apps, enterprise software, and web applications.",
+    "what is javascript": "JavaScript is a programming language used to create interactive web pages. It runs in browsers and on servers (Node.js).",
+    "what is html": "HTML (HyperText Markup Language) is the standard language for creating web pages. It defines the structure of a webpage.",
+    "what is css": "CSS (Cascading Style Sheets) is used to style and layout web pages. It controls colors, fonts, spacing, and positioning."
+  },
+  "science": {
+    "what is physics": "Physics is the study of matter, energy, motion, and force. It explains how the universe works from subatomic particles to galaxies.",
+    "what is chemistry": "Chemistry is the study of substances - what they're made of, how they interact, and what rules they follow.",
+    "what is biology": "Biology is the study of living organisms - their structure, function, growth, evolution, and distribution.",
+    "what is gravity": "Gravity is a force that attracts objects toward each other. On Earth, it gives weight to objects and causes them to fall when dropped.",
+    "what is electricity": "Electricity is the flow of electric charge. It powers our homes, devices, and is essential for modern civilization.",
+    "what is internet": "The Internet is a global network of interconnected computers that communicate using standardized protocols. It enables email, web browsing, and more."
+  },
+  "general": {
+    "what is ai": "Artificial Intelligence (AI) is the simulation of human intelligence by machines. It includes learning, reasoning, problem-solving, and decision-making.",
+    "what is machine learning": "Machine Learning is a subset of AI where systems learn from data without being explicitly programmed. Examples: recommendation systems, image recognition.",
+    "what is wifi": "WiFi is a wireless networking technology that allows devices to connect to the internet without physical cables. It uses radio waves.",
+    "what is bluetooth": "Bluetooth is a wireless technology for exchanging data over short distances between devices. Used in headphones, speakers, and file transfers.",
+    "what is blockchain": "Blockchain is a distributed ledger technology that records transactions across many computers. It's the foundation of cryptocurrencies like Bitcoin."
+  },
+  "home_automation": {
+    "what is home automation": "Home automation refers to controlling home devices automatically using technology. It includes lighting, security, climate control, and appliances.",
+    "what is iot": "Internet of Things (IoT) is the network of physical devices connected to the internet. Smart home devices, wearables, and sensors are examples.",
+    "what is esp32": "ESP32 is a low-cost, low-power microcontroller with built-in WiFi and Bluetooth. It's perfect for IoT and home automation projects.",
+    "what is arduino home automation": "Using Arduino boards to control home devices like lights, fans, doors, and sensors. Can be controlled via phone, voice, or automation."
+  },
+  "hindi": {
+    "namaste kya hai": "Namaste is a traditional Hindi greeting meaning Hello. It is used to greet someone respectfully.",
+    "bharat desh hai": "Bharat (India) is a country in South Asia. It is the world's most populous country and the 7th largest by area.",
+    "hindi kya hai": "Hindi is an Indo-Aryan language spoken primarily in India. It is one of the official languages of the Indian government."
+  },
+  "my": {
+    "my name is tony": "tony is a great name"
+  }
+}
