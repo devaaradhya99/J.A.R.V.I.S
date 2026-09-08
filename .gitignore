@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+temp_voice.wav
+temp_audio.wav
+test_audio.wav
+*.exe
